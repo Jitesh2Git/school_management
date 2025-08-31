@@ -2,6 +2,8 @@ import { getSchools } from "@/lib/actions";
 import { School2 } from "lucide-react";
 import Image from "next/image";
 
+export const dynamic = "force-dynamic";
+
 const ShowSchoolsPage = async () => {
   const res = await getSchools();
   const { schools } = res;
