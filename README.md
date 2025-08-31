@@ -8,6 +8,8 @@
 
 ## 📹 Demo Video
 
+**Demo Video:** [Video Link](https://drive.google.com/file/d/16q2SEU5frcWPSp18UFkjRWf_bQBagGca/view?usp=sharing)
+
 _The demo video showcases:_
 
 - Adding new schools with form validation
